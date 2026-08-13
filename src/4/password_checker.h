@@ -1,0 +1,1 @@
+bool check_password(std::string, int min_length = 8);
