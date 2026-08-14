@@ -1,0 +1,1 @@
+int find_char(std::string str, char ch, int from = 0, int to = 0);
